@@ -3,7 +3,7 @@
 This is a simple clone of the YouTube homepage built using HTML and CSS.  
 
 ## Features  
-- Responsive design (if applicable).  
+- Responsive design.  
 - Clean and structured layout resembling the YouTube homepage.  
 
 ## Demo  
@@ -12,7 +12,7 @@ This is a simple clone of the YouTube homepage built using HTML and CSS.
 ## How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/your-repo-name.git  
+   git clone https://github.com/dhille-hub/youtube_home.git
    ```  
 2. Open the `home.html` file in your browser.  
 
